@@ -1,0 +1,8 @@
+C:\visule\6hafta\6hafta\bin\Debug\6hafta.exe.config
+C:\visule\6hafta\6hafta\bin\Debug\6hafta.exe
+C:\visule\6hafta\6hafta\bin\Debug\6hafta.pdb
+C:\visule\6hafta\6hafta\obj\Debug\6hafta.csproj.AssemblyReference.cache
+C:\visule\6hafta\6hafta\obj\Debug\6hafta.csproj.SuggestedBindingRedirects.cache
+C:\visule\6hafta\6hafta\obj\Debug\6hafta.csproj.CoreCompileInputs.cache
+C:\visule\6hafta\6hafta\obj\Debug\6hafta.exe
+C:\visule\6hafta\6hafta\obj\Debug\6hafta.pdb

@@ -1,0 +1,8 @@
+C:\visule\Hafta7\Hafta7\bin\Debug\Hafta7.exe.config
+C:\visule\Hafta7\Hafta7\bin\Debug\Hafta7.exe
+C:\visule\Hafta7\Hafta7\bin\Debug\Hafta7.pdb
+C:\visule\Hafta7\Hafta7\obj\Debug\Hafta7.csproj.AssemblyReference.cache
+C:\visule\Hafta7\Hafta7\obj\Debug\Hafta7.csproj.SuggestedBindingRedirects.cache
+C:\visule\Hafta7\Hafta7\obj\Debug\Hafta7.csproj.CoreCompileInputs.cache
+C:\visule\Hafta7\Hafta7\obj\Debug\Hafta7.exe
+C:\visule\Hafta7\Hafta7\obj\Debug\Hafta7.pdb

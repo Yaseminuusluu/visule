@@ -1,0 +1,11 @@
+C:\visule\1.hafta\1.hafta\bin\Debug\1.hafta.exe.config
+C:\visule\1.hafta\1.hafta\bin\Debug\1.hafta.exe
+C:\visule\1.hafta\1.hafta\bin\Debug\1.hafta.pdb
+C:\visule\1.hafta\1.hafta\obj\Debug\1.hafta.csproj.AssemblyReference.cache
+C:\visule\1.hafta\1.hafta\obj\Debug\1.hafta.csproj.SuggestedBindingRedirects.cache
+C:\visule\1.hafta\1.hafta\obj\Debug\_1.hafta.Form1.resources
+C:\visule\1.hafta\1.hafta\obj\Debug\_1.hafta.Properties.Resources.resources
+C:\visule\1.hafta\1.hafta\obj\Debug\1.hafta.csproj.GenerateResource.cache
+C:\visule\1.hafta\1.hafta\obj\Debug\1.hafta.csproj.CoreCompileInputs.cache
+C:\visule\1.hafta\1.hafta\obj\Debug\1.hafta.exe
+C:\visule\1.hafta\1.hafta\obj\Debug\1.hafta.pdb

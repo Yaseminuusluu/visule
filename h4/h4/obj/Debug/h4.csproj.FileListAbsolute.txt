@@ -1,0 +1,8 @@
+C:\visule\h4\h4\bin\Debug\h4.exe.config
+C:\visule\h4\h4\bin\Debug\h4.exe
+C:\visule\h4\h4\bin\Debug\h4.pdb
+C:\visule\h4\h4\obj\Debug\h4.csproj.AssemblyReference.cache
+C:\visule\h4\h4\obj\Debug\h4.csproj.SuggestedBindingRedirects.cache
+C:\visule\h4\h4\obj\Debug\h4.csproj.CoreCompileInputs.cache
+C:\visule\h4\h4\obj\Debug\h4.exe
+C:\visule\h4\h4\obj\Debug\h4.pdb

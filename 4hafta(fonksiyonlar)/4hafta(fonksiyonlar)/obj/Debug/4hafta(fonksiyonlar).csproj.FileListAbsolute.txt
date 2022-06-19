@@ -1,0 +1,8 @@
+C:\visule\4hafta(fonksiyonlar)\4hafta(fonksiyonlar)\bin\Debug\4hafta(fonksiyonlar).exe.config
+C:\visule\4hafta(fonksiyonlar)\4hafta(fonksiyonlar)\bin\Debug\4hafta(fonksiyonlar).exe
+C:\visule\4hafta(fonksiyonlar)\4hafta(fonksiyonlar)\bin\Debug\4hafta(fonksiyonlar).pdb
+C:\visule\4hafta(fonksiyonlar)\4hafta(fonksiyonlar)\obj\Debug\4hafta(fonksiyonlar).csproj.AssemblyReference.cache
+C:\visule\4hafta(fonksiyonlar)\4hafta(fonksiyonlar)\obj\Debug\4hafta(fonksiyonlar).csproj.SuggestedBindingRedirects.cache
+C:\visule\4hafta(fonksiyonlar)\4hafta(fonksiyonlar)\obj\Debug\4hafta(fonksiyonlar).csproj.CoreCompileInputs.cache
+C:\visule\4hafta(fonksiyonlar)\4hafta(fonksiyonlar)\obj\Debug\4hafta(fonksiyonlar).exe
+C:\visule\4hafta(fonksiyonlar)\4hafta(fonksiyonlar)\obj\Debug\4hafta(fonksiyonlar).pdb

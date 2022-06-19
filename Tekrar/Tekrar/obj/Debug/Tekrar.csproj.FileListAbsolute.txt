@@ -1,0 +1,8 @@
+C:\visule\Tekrar\Tekrar\bin\Debug\Tekrar.exe.config
+C:\visule\Tekrar\Tekrar\bin\Debug\Tekrar.exe
+C:\visule\Tekrar\Tekrar\bin\Debug\Tekrar.pdb
+C:\visule\Tekrar\Tekrar\obj\Debug\Tekrar.csproj.AssemblyReference.cache
+C:\visule\Tekrar\Tekrar\obj\Debug\Tekrar.csproj.SuggestedBindingRedirects.cache
+C:\visule\Tekrar\Tekrar\obj\Debug\Tekrar.csproj.CoreCompileInputs.cache
+C:\visule\Tekrar\Tekrar\obj\Debug\Tekrar.exe
+C:\visule\Tekrar\Tekrar\obj\Debug\Tekrar.pdb

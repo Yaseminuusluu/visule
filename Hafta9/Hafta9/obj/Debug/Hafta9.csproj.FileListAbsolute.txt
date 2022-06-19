@@ -1,0 +1,8 @@
+C:\visule\Hafta9\Hafta9\bin\Debug\Hafta9.exe.config
+C:\visule\Hafta9\Hafta9\bin\Debug\Hafta9.exe
+C:\visule\Hafta9\Hafta9\bin\Debug\Hafta9.pdb
+C:\visule\Hafta9\Hafta9\obj\Debug\Hafta9.csproj.AssemblyReference.cache
+C:\visule\Hafta9\Hafta9\obj\Debug\Hafta9.csproj.SuggestedBindingRedirects.cache
+C:\visule\Hafta9\Hafta9\obj\Debug\Hafta9.csproj.CoreCompileInputs.cache
+C:\visule\Hafta9\Hafta9\obj\Debug\Hafta9.exe
+C:\visule\Hafta9\Hafta9\obj\Debug\Hafta9.pdb

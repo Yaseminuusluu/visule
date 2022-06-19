@@ -1,0 +1,8 @@
+C:\visule\Hafta10\Hafta10\obj\Debug\Hafta10.csproj.AssemblyReference.cache
+C:\visule\Hafta10\Hafta10\obj\Debug\Hafta10.csproj.SuggestedBindingRedirects.cache
+C:\visule\Hafta10\Hafta10\obj\Debug\Hafta10.csproj.CoreCompileInputs.cache
+C:\visule\Hafta10\Hafta10\bin\Debug\Hafta10.exe.config
+C:\visule\Hafta10\Hafta10\bin\Debug\Hafta10.exe
+C:\visule\Hafta10\Hafta10\bin\Debug\Hafta10.pdb
+C:\visule\Hafta10\Hafta10\obj\Debug\Hafta10.exe
+C:\visule\Hafta10\Hafta10\obj\Debug\Hafta10.pdb
